@@ -65,5 +65,3 @@ var scene = viewer.scene
 [5]: http://support.supermap.com.cn/product/CodeLibrary.aspx?PRODUCT_TYPE=2	"官方自私资源"
 [6]: https://cesiumjs.org/Cesium/Build/Documentation/	"在线文档2"
 [7]: https://www.supermapol.com/developer/index.html	"官方开发文档"
-
-[8]: 
