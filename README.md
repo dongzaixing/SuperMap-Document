@@ -1,5 +1,11 @@
 # 项目中使用到的超图接口
 
+[![Commit](https://img.shields.io/github/last-commit/sz-znv/SuperMap-Document.svg)](https://github.com/sz-znv/SuperMap-Document/commits/master)
+
+[![Tag](https://img.shields.io/github/tag/sz-znv/SuperMap-Document.svg)](https://github.com/sz-znv/SuperMap-Document/tags)
+
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sz-znv/SuperMap-Document/blob/master/LICENSE)
+
 **@author PinghuaZhuang**
 
 记录项目中使用的部分超图功能以及接口.
@@ -20,7 +26,7 @@
 
 
 
-## 关键属性
+## :pill:关键属性
 
 ### viewer
 
@@ -50,7 +56,7 @@ var scene = viewer.scene
 
 
 
-## Document
+## :open_file_folder:Document
 
 + [Coordinate](./Coordinate.md): 坐标相关.
 + [Entity](./Entity.md): entity 实体.
