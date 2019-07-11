@@ -4,6 +4,14 @@
 
 
 
+## 设置视角变化的灵敏度
+
+```js
+scene.camera.percentageChanged = .001;
+```
+
+
+
 ## 双击 Entity 跟踪行为
 
 ```js
